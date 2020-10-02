@@ -104,7 +104,7 @@
     }
   },
   "files": {
-    "readme": 1,
-    "index": 0
+    "index": 0,
+    "README": 1
   }
 }
