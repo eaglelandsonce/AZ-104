@@ -17,7 +17,7 @@ Description: In this hands on course you will cover managing Azure identities an
 | Module 4 | Virtual Networking | [04 - Implement Virtual Networking](./Instructions/Labs/LAB_04-Implement_Virtual_Networking.md) | Quiz 4 |
 | Module 5 | Intersite Connectivity | [05 - Implement Intersite Connectivity](./Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.md) | Quiz 5 |
 | Module 6 | Network Traffic Management | [06 - Implement Traffic Management](./Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.md) | Quiz 6 |
-| Module 7 | Azure Storage | [07 - Manage Azure storage](./Instructions/Labs/LAB_07-Manage_Azure_Storage.md) | Quiz 7 |
+| Module 7 | Azure Storage | [07 - Manage Azure storage](./Instructions/Labs/LAB_07-Manage_Azure_Storage.md) |  [Quiz 7](./Instructions/Quizzes/quiz07) |
 | Module 8 | Virtual Machines | [08 - Manage Virtual Machines](./Instructions/Labs/LAB_08-Manage_Virtual_Machines.md) | Quiz 8 |
 | Module 9 | Serverless Computing | [09a - Implement Web Apps](./Instructions/Labs/LAB_09a-Implement_Web_Apps.md) |  |
 |  | Serverless Computing | [09b - Implement Azure Container Instances](./Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.md) |  |
