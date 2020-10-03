@@ -3,19 +3,19 @@
 1\. You have two subscriptions named Subscription1 and Subscription2\. You are currently managing resources in Subscription1 from Computer1 that has the Azure CLI installed\. You need to switch to Subscription2\. Which command should you run?
 
 
-A  az set account --subscription "Subscription2"</br>
-B  az account set --subscription "Subscription2"</br>
-C  az subscription set "Subscription2"</br>
-D  Select-AzureSubscription -SubscriptionName "Subscription2"</br>
+A  az set account --subscription "Subscription2" <br>
+B  az account set --subscription "Subscription2" <br>
+C  az subscription set "Subscription2" <br>
+D  Select-AzureSubscription -SubscriptionName "Subscription2" <br>
 
 
 2\. You have two subscriptions named Subscription1 and Subscription2\. You are logged into Azure using Azure PowerShell from Computer1\. How can you identify which subscription you are currently viewing and then switch from one subscription to the other for the current session at Computer1\.
 
 
-A  Set-AzContext -SubscriptionName</br></br>
-B  Get-AzContext</br>
-C Select-AzContext</br>
-D  AzShow-Context</br>
+A  Set-AzContext -SubscriptionName<br>
+B  Get-AzContext<br>
+C Select-AzContext<br>
+D  AzShow-Context<br>
 
 
 3\. Your company has recently migrated to Azure Active Directory\. You have been told to join all users' devices to the domain\, but limit the number of devices to 5 per user\. What should you do?
