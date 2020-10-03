@@ -84,16 +84,16 @@
             "LAB_02b-Manage_Governance_via_Azure_Policy": 2,
             "LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal": 3,
             "LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates": 4,
-            "LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell": 5,
-            "LAB_03d-Manage_Azure_Resources_by_Using_Azure_CLI": 6,
+            "LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell": 6,
+            "LAB_03d-Manage_Azure_Resources_by_Using_Azure_CLI": 5,
             "LAB_04-Implement_Virtual_Networking": 7,
             "LAB_05-Implement_Intersite_Connectivity": 8,
             "LAB_06-Implement_Network_Traffic_Management": 9,
             "LAB_07-Manage_Azure_Storage": 10,
             "LAB_08-Manage_Virtual_Machines": 12,
             "LAB_09a-Implement_Web_Apps": 11,
-            "LAB_09b-Implement_Azure_Container_Instances": 13,
-            "LAB_09c-Implement_Azure_Kubernetes_Service": 14,
+            "LAB_09b-Implement_Azure_Container_Instances": 14,
+            "LAB_09c-Implement_Azure_Kubernetes_Service": 13,
             "LAB_10-Implement_Data_Protection": 15,
             "LAB_11-Implement_Monitoring": 16,
             "Topic_01": 17
@@ -104,8 +104,24 @@
           "isOrdered": true,
           "folders": {},
           "files": {
-            "quiz01": 0
+            "quiz01": 1,
+            "quiz02": 0,
+            "quiz03": 2,
+            "quiz04": 3,
+            "quiz05": 4,
+            "quiz06": 5,
+            "quiz07": 6,
+            "quiz08": 7,
+            "quiz09": 8,
+            "quiz10": 9,
+            "quiz11": 10
           }
+        },
+        "Images": {
+          "name": "Images",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
         }
       },
       "files": {}

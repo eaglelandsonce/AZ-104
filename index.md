@@ -4,11 +4,9 @@
 Description: In this hands on course you will cover managing Azure identities and governance; implementing and managing storage; deploying and managing Azure compute resources; configuring and managing virtual networking; and monitoring and backing up Azure resources.  To complete this course you will need to have a free installation of Azure.  At the completion of each lab be careful to delete your created resources to avoid any potential charges.
 
 <br>
-
-
 | Module | Topic Discussion | Lab (Exercise) | Quiz |
 | ------ | ---------------- | -------------- | ---- |
-| Module 01 | Identity | [01 - Manage Azure Active Directory Identities](./Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.md) | Quiz 1 |
+| Module 01 | Identity | [01 - Manage Azure Active Directory Identities](./Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.md) | [Quiz 1](./Quizzes/quiz01) |
 | Module 02 | Governance and Compliance | [02a - Manage Subscriptions and RBAC](./Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.md) |  |
 |  | Governance and Compliance | [02b - Manage Governance via Azure Policy](./Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.md) | Quiz 2 |
 | Module 3 | Azure Administration | [03a - Manage Azure resources by Using the Azure Portal](./Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.md) |  |
@@ -25,5 +23,5 @@ Description: In this hands on course you will cover managing Azure identities an
 |  | Serverless Computing | [09c - Implement Azure Kubernetes Service](./Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.md) | Quiz 9 |
 | Module 10 | Data Protection | [10 - Implement Data Protection](./Instructions/Labs/LAB_10-Implement_Data_Protection.md) | Quiz 10 |
 | Module 11 | Monitoring | [11 - Implement Monitoring](./Instructions/Labs/LAB_11-Implement_Monitoring.md) | Quiz 11 |
-| Resource |  | https://docs.microsoft.com/en-us/learn/certifications/exams/az-104 |  |
-| ARM |  | https://interactive.linuxacademy.com/diagrams/446\_Azure+Templates.html |  |
+| Resource |  | [Microsoft's AZ-104 Course](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) |  |
+| ARM |  | [ARM Templates](https://interactive.linuxacademy.com/diagrams/446_Azure+Templates.html) |  |
