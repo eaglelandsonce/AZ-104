@@ -4,11 +4,9 @@
 Description: In this hands on course you will cover managing Azure identities and governance; implementing and managing storage; deploying and managing Azure compute resources; configuring and managing virtual networking; and monitoring and backing up Azure resources.  To complete this course you will need to have a free installation of Azure.  At the completion of each lab be careful to delete your created resources to avoid any potential charges.
 
 <br>
-
-
 | Module | Topic Discussion | Lab (Exercise) | Quiz |
 | ------ | ---------------- | -------------- | ---- |
-| Module 01 | Identity | [01 - Manage Azure Active Directory Identities](./Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.md) | [Quiz 1](./Quizzes/quiz01) |
+| Module 01 | Identity | [01 - Manage Azure Active Directory Identities](./Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.md) | [Quiz 1](./Instructions/Quizzes/quiz01) |
 | Module 02 | Governance and Compliance | [02a - Manage Subscriptions and RBAC](./Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.md) |  |
 |  | Governance and Compliance | [02b - Manage Governance via Azure Policy](./Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.md) | Quiz 2 |
 | Module 3 | Azure Administration | [03a - Manage Azure resources by Using the Azure Portal](./Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.md) |  |

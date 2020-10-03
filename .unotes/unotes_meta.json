@@ -104,8 +104,8 @@
           "isOrdered": true,
           "folders": {},
           "files": {
-            "quiz01": 1,
-            "quiz02": 0,
+            "quiz01": 0,
+            "quiz02": 1,
             "quiz03": 2,
             "quiz04": 3,
             "quiz05": 4,
