@@ -1,11 +1,9 @@
 # AZ-104 MICROSOFT AZURE ADMINISTRATOR
 <br>
-
-
+<br>
 Description: In this hands on course you will cover managing Azure identities and governance; implementing and managing storage; deploying and managing Azure compute resources; configuring and managing virtual networking; and monitoring and backing up Azure resources.  To complete this course you will need to have a free installation of Azure.  At the completion of each lab be careful to delete your created resources to avoid any potential charges.
 
-* * *
-
+- - -
 
 | Module | Topic Discussion | Lab (Exercise) | Quiz |
 | ------ | ---------------- | -------------- | ---- |
