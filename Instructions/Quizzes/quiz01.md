@@ -1,6 +1,5 @@
 ## Quiz 01
 
-
 1\. You have two subscriptions named Subscription1 and Subscription2\. You are currently managing resources in Subscription1 from Computer1 that has the Azure CLI installed\. You need to switch to Subscription2\. Which command should you run?
 
 A  az set account --subscription "Subscription2"
