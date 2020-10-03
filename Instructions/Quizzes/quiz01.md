@@ -2,10 +2,10 @@
 <br>
 1\. You have two subscriptions named Subscription1 and Subscription2\. You are currently managing resources in Subscription1 from Computer1 that has the Azure CLI installed\. You need to switch to Subscription2\. Which command should you run?
 
-A  az set account --subscription "Subscription2"
-B  az account set --subscription "Subscription2"
-C  az subscription set "Subscription2"
-D  Select-AzureSubscription -SubscriptionName "Subscription2"
+> A  az set account --subscription "Subscription2"
+> B  az account set --subscription "Subscription2"
+> C  az subscription set "Subscription2"
+> D  Select-AzureSubscription -SubscriptionName "Subscription2"
 
 2\. You have two subscriptions named Subscription1 and Subscription2\. You are logged into Azure using Azure PowerShell from Computer1\. How can you identify which subscription you are currently viewing and then switch from one subscription to the other for the current session at Computer1\.
 
