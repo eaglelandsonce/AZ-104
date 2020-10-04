@@ -25,5 +25,4 @@ Description: In this hands on course you will cover managing Azure identities an
 | Module 10 | Data Protection | [10 - Implement Data Protection](./Instructions/Labs/LAB_10-Implement_Data_Protection.md) | Quiz 10 |
 | Module 11 | Monitoring | [11 - Implement Monitoring](./Instructions/Labs/LAB_11-Implement_Monitoring.md) | [Quiz 11](./Instructions/Quizzes/quiz11) |
 | Resource |  | [Microsoft's AZ-104 Course](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) |  |
-| ARM |  | [ARM Templates](https://interactive.linuxacademy.com/diagrams/446_Azure+Templates.html) |  |
-| Templates |  | [Github ARM Templates](https://azure.microsoft.com/en-us/resources/templates/?sort=Popular) |  |
+| ARM |  | [ARM Templates](https://interactive.linuxacademy.com/diagrams/446_Azure+Templates.html) & [GitHub ARM Templates](https://azure.microsoft.com/en-us/resources/templates/?sort=Popular) |  |
