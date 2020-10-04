@@ -23,6 +23,7 @@ Description: In this hands on course you will cover managing Azure identities an
 |  | Serverless Computing | [09b - Implement Azure Container Instances](./Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.md) |  |
 |  | Serverless Computing | [09c - Implement Azure Kubernetes Service](./Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.md) | Quiz 9 |
 | Module 10 | Data Protection | [10 - Implement Data Protection](./Instructions/Labs/LAB_10-Implement_Data_Protection.md) | Quiz 10 |
-| Module 11 | Monitoring | [11 - Implement Monitoring](./Instructions/Labs/LAB_11-Implement_Monitoring.md) | Quiz 11 |
+| Module 11 | Monitoring | [11 - Implement Monitoring](./Instructions/Labs/LAB_11-Implement_Monitoring.md) | [Quiz 11](./Instructions/Quizzes/quiz11) |
 | Resource |  | [Microsoft's AZ-104 Course](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) |  |
 | ARM |  | [ARM Templates](https://interactive.linuxacademy.com/diagrams/446_Azure+Templates.html) |  |
+| Templates |  | [Github ARM Templates](https://azure.microsoft.com/en-us/resources/templates/?sort=Popular) |  |
