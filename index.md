@@ -4,8 +4,8 @@
 In this hands on course you will cover managing Azure identities and governance; implementing and managing storage; deploying and managing Azure compute resources; configuring and managing virtual networking; and monitoring and backing up Azure resources.  To complete this course you will need to have a free installation of Azure.  At the completion of each lab be careful to delete your created resources to avoid any potential charges.
 
 #### Table of Contents
-1. [Course](#course)
-2. [Sandboxes](#sandboxes)
+- [Course](#course)
+- [Sandboxes](#sandboxes)
 
 ---
 
